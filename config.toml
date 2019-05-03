@@ -1,4 +1,4 @@
-baseurl = "https://github.com/rduvvuri83/HW4.git/"
+baseurl = "https://upbeat-hawking-0e3aa6.netlify.com/"
 languageCode = "en-us"
 title = "My First Website"
 theme = "hugo-now-ui-master"
